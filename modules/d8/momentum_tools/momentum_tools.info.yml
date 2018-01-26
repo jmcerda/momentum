@@ -1,0 +1,5 @@
+name: 'Momentum Tools'
+description: 'Basic Momentum configuration and tools'
+core: 8.x
+package: Momentum
+type: module

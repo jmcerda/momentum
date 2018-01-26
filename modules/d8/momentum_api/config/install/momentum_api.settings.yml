@@ -1,0 +1,7 @@
+momentum_api_debug: 0
+momentum_api_process: 0
+momentum_api_url: 'http://bapi-stage.reqdigital.com/'
+momentum_api_api_key: null
+momentum_api_parent: null
+momentum_api_email_address: null
+momentum_api_error_description: ''

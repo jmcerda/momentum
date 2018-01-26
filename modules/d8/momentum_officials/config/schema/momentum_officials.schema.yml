@@ -1,0 +1,12 @@
+momentum_officials.settings:
+    type: mapping
+    label: Settings
+    mapping:
+        momentum_officials_banner_path:
+            type: 'NULL'
+        momentum_officials_banner_text:
+            type: 'NULL'
+        momentum_officials_intro:
+            type: 'NULL'
+        momentum_officials_outro:
+            type: 'NULL'

@@ -1,0 +1,6 @@
+admin_momentum:
+    title: 'Admin momentum'
+    description: 'Set configuration options for Momentum module'
+use_momentum:
+    title: 'Guest momentum'
+    description: 'User for public data or requests'

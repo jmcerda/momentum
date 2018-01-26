@@ -1,0 +1,8 @@
+name: 'Momentum Candidates'
+description: 'Utilizes the Momentum Candidates API'
+core: 8.x
+package: BIPAC
+dependencies:
+    - momentum_api
+    - imagecache_external
+type: module

@@ -1,0 +1,10 @@
+momentum_vote.settings:
+    type: mapping
+    label: Settings
+    mapping:
+        momentum_vote_banner_text:
+            type: 'NULL'
+        momentum_vote_banner_path:
+            type: 'NULL'
+        momentum_vote_results:
+            type: string

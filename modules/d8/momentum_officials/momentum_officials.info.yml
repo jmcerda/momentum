@@ -1,0 +1,8 @@
+name: 'Momentum Officials'
+description: 'Utilizes the Momentum Officials API'
+core: 8.x
+package: Momentum
+dependencies:
+    - momentum_api
+    - imagecache_external
+type: module

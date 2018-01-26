@@ -1,0 +1,6 @@
+services:
+    init_subscriber:
+        class: Drupal\momentum_api\EventSubscriber\InitSubscriber
+        tags:
+            -
+                name: event_subscriber

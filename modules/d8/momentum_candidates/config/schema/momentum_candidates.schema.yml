@@ -1,0 +1,12 @@
+momentum_candidates.settings:
+    type: mapping
+    label: Settings
+    mapping:
+        momentum_candidates_banner_path:
+            type: 'NULL'
+        momentum_candidates_banner_text:
+            type: 'NULL'
+        momentum_candidates_intro:
+            type: 'NULL'
+        momentum_candidates_outro:
+            type: 'NULL'
